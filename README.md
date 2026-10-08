@@ -1,1 +1,1 @@
-# jordans_website_react
+My React App for Jordans Journey :)
